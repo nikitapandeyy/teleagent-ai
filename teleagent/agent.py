@@ -145,7 +145,7 @@ def build_graph(api_key: str):
     llm = ChatGoogleGenerativeAI(
         model="gemini-flash-latest",
         google_api_key=api_key,
-        max_output_tokens=600,
+        max_output_tokens=2048,
         temperature=0.3,
     )
 

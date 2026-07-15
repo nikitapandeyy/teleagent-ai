@@ -1,0 +1,7 @@
+[
+  {"name": "Lite 1GB", "price_inr": 199, "data_gb_per_day": 1, "calls": "Limited", "ott": "None", "best_for": "light users, mostly WiFi at home/office"},
+  {"name": "Smart 1.5GB", "price_inr": 299, "data_gb_per_day": 1.5, "calls": "Unlimited", "ott": "1 OTT app", "best_for": "everyday browsing, social media, some streaming"},
+  {"name": "Power 2GB", "price_inr": 399, "data_gb_per_day": 2, "calls": "Unlimited", "ott": "2 OTT apps", "best_for": "regular video streaming and video calls"},
+  {"name": "Max 3GB", "price_inr": 599, "data_gb_per_day": 3, "calls": "Unlimited", "ott": "3 OTT apps + cloud storage", "best_for": "heavy streamers, remote workers, gamers"},
+  {"name": "Family Bundle 10GB Pool", "price_inr": 999, "data_gb_per_day": 10, "calls": "Unlimited (5 lines)", "ott": "Full OTT suite", "best_for": "families sharing data across multiple lines"}
+]

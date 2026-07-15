@@ -1,0 +1,80 @@
+[
+  {
+    "id": "billing-1",
+    "category": "billing",
+    "question": "Why was I charged extra on my last bill?",
+    "answer": "Extra charges usually come from crossing your plan's data/call limit, a one-time add-on purchase, or taxes applied after a plan change. Check the 'Usage Breakdown' section of your bill for a line-by-line explanation before assuming it's an error."
+  },
+  {
+    "id": "billing-2",
+    "category": "billing",
+    "question": "How do I set up autopay for my telecom bill?",
+    "answer": "Go to Wallet & Payments in the app, select 'Autopay', link a card or UPI ID, and confirm. Autopay runs 2 days before your due date and you'll get a reminder notification 24 hours in advance."
+  },
+  {
+    "id": "billing-3",
+    "category": "billing",
+    "question": "Can I get a refund for a wrongly charged add-on?",
+    "answer": "Yes. Add-ons cancelled within 24 hours of purchase and unused are refunded automatically within 3-5 business days. After 24 hours, refunds require a support ticket for manual review."
+  },
+  {
+    "id": "plan-1",
+    "category": "plan",
+    "question": "What happens if I exceed my monthly data limit?",
+    "answer": "Once you cross your data limit, speeds are throttled to 128kbps unless you have a rollover or top-up add-on active. You can also switch to an unlimited plan mid-cycle with prorated charges."
+  },
+  {
+    "id": "plan-2",
+    "category": "plan",
+    "question": "Can I switch plans in the middle of my billing cycle?",
+    "answer": "Yes, mid-cycle plan switches are allowed and charges are prorated based on days used on the old plan and days remaining on the new one. The switch takes effect within a few hours."
+  },
+  {
+    "id": "plan-3",
+    "category": "plan",
+    "question": "Do family or bundle plans share data across members?",
+    "answer": "Bundle plans allow shared data pools across up to 5 lines, with each member able to set an individual data cap through the family dashboard to prevent one line from consuming the whole pool."
+  },
+  {
+    "id": "wifi-1",
+    "category": "wifi",
+    "question": "My home WiFi keeps disconnecting, what should I do?",
+    "answer": "First restart the router by unplugging it for 30 seconds. If the issue persists, check for firmware updates in the router app, move the router away from other electronics, and run a line-quality test from the app's 'Network Health' tab."
+  },
+  {
+    "id": "wifi-2",
+    "category": "wifi",
+    "question": "How do I improve WiFi speed in far corners of my house?",
+    "answer": "Use a mesh extender paired to your main router through the app's 'Add Device' flow, and place it roughly halfway between the router and the weak-signal area for the best coverage boost."
+  },
+  {
+    "id": "wifi-3",
+    "category": "wifi",
+    "question": "How do I set up parental controls on my home WiFi?",
+    "answer": "Open the router app, go to 'Family Profiles', add a device or person, and set time schedules or content filters. Changes apply within a minute without needing a router restart."
+  },
+  {
+    "id": "ott-1",
+    "category": "entertainment",
+    "question": "How do I activate an OTT bundle included in my plan?",
+    "answer": "Go to 'Entertainment' in the app, find the OTT service listed under your plan's benefits, and tap 'Activate'. You'll be redirected to log in or create an account on the partner OTT platform directly."
+  },
+  {
+    "id": "wallet-1",
+    "category": "wallet",
+    "question": "How do I add money to my digital wallet?",
+    "answer": "Open Wallet, tap 'Add Money', choose a source (bank, card, UPI), enter the amount, and confirm with your PIN or biometric. Funds reflect instantly for UPI and within a few minutes for card top-ups."
+  },
+  {
+    "id": "wallet-2",
+    "category": "wallet",
+    "question": "Is my digital wallet balance safe if I lose my phone?",
+    "answer": "Yes, the wallet is protected by app-level biometric/PIN lock and can be frozen remotely by calling support or using 'Find My Device' to log out all sessions, so a lost phone alone can't drain your balance."
+  },
+  {
+    "id": "device-1",
+    "category": "device",
+    "question": "Can I buy a new phone on EMI through the app?",
+    "answer": "Yes, device financing is available at checkout for eligible plans. Select 'Pay with EMI', choose a tenure (3-24 months), and approval is instant for most existing customers based on account history."
+  }
+]
